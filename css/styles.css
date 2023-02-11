@@ -1,37 +1,52 @@
 body {
-  background-color: #A5C9CA;
+  background-color: #F9F7F7;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
 }
+
 hr {
   display: block;
-  width: 4%;
+  width: 30px;
   height: 0px;
-  border-color: #395B64;
+  border-color: #DBE2EF;
   border-style: none;
   border-top-style: dotted;
   border-width: 8px;
 }
 
 h1 {
-  color: #395B64;
+  color: #3F72AF;
   text-align: center;
 }
 
 h2 {
-  color: #395B64
+  color: #3F72AF;
 }
 
 h3 {
-  color: #395B64
+  color: #3F72AF;
+  text-align: center;
 }
 
 h4 {
-  color: #2C3333
+  color: #3F72AF;
 }
 
 h5 {
-  color: #2C3333
+  color: #3F72AF;
 }
 
 img {
-  border-radius: 50%;
+  border-radius: 20%;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+input {
+  text-align: right;
 }
